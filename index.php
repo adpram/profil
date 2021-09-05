@@ -68,14 +68,14 @@
                         </div>  
                     </div>
                     <div class="carousel-item">
-                        <img src="/assets/img/sukorejo.png" class="d-block w-100" alt="sukorejo">
+                        <img src="/assets/img/sukorejo.png" class="d-block image-slide" alt="sukorejo">
                         <div class="carousel-caption d-none d-md-block desc-slide">
                             <h5><b>Website Desa</b></h5>
                             <p><b>Berisi profil dan produk umkm desa Sukorejo.</b></p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="/assets/img/asa.png" class="d-block w-100" alt="asa">
+                        <img src="/assets/img/asa.png" class="d-block image-slide" alt="asa">
                         <div class="carousel-caption d-none d-md-block desc-slide">
                             <h5><b>Website Perusahaan</b></h5>
                             <p><b>Profil dan produk jasa PT. Aria Sumit Andalan.</b></p>
