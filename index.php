@@ -39,12 +39,12 @@
                 </tr>
                 <tr>
                     <th class="center">
-                        <a href="https://www.instagram.com/adpram_/" target="_blanks"><i
-                                class="fab fa-instagram text-white"></i></a>&nbsp;
-                        <a href="https://www.linkedin.com/in/adi-pramono-9b0b3b1b2/" target="_blanks"><i
-                                class="fab fa-linkedin text-white"></i></a>&nbsp;
-                        <a href="https://github.com/adpram" target="_blanks"><i
-                                class="fab fa-github text-white"></i></a>
+                        <a href="https://www.instagram.com/adpram_/" class="icon-social-media" target="_blanks"><i
+                                class="fab fa-instagram text-white fa-lg"></i></a>
+                        <a href="https://www.linkedin.com/in/adi-pramono-9b0b3b1b2/" class="icon-social-media" target="_blanks"><i
+                                class="fab fa-linkedin text-white fa-lg"></i></a>
+                        <a href="https://github.com/adpram" class="icon-social-media" target="_blanks"><i
+                                class="fab fa-github text-white fa-lg"></i></a>
                     </th>
                 </tr>
             </table>

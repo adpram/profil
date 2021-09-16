@@ -9,7 +9,7 @@ body {
 
 #left-side {
     height: 600px;
-    background: linear-gradient( rgba(0, 0, 0, 0.479), rgba(0, 0, 0, 0.774) ), url(assets/img/pict.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.479), rgba(0, 0, 0, 0.774)), url(assets/img/pict.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center;
@@ -31,11 +31,11 @@ table {
     color: white;
 }
 
-.name{
+.name {
     font-size: 25px;
 }
 
-.desc{
+.desc {
     margin-top: 25px;
     font-size: 13px;
 }
@@ -44,6 +44,9 @@ table {
     text-align: center;
 }
 
+.icon-social-media {
+    padding: 8px;
+}
 
 #right-side {
     background-color: rgba(190, 245, 127, 0.5);
@@ -63,6 +66,7 @@ table {
     opacity: 0.8;
     border-radius: 2%;
 }
+
 .desc-slide h5 {
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
