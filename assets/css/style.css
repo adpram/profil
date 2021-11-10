@@ -46,6 +46,10 @@ hr {
     body {
         background: linear-gradient(to bottom, #ecf0f1 40%, #52e48f 0%);
     }
+
+    #parent {
+        height: 150vh
+    }
 }
 
 
