@@ -12,7 +12,7 @@ body {
 
 #div-profil {
     background: #d8ffe3;
-    padding-top: 30px;
+    padding: 30px 0px;
 }
 .profil-pict {
     border-radius: 50%;
@@ -21,7 +21,6 @@ body {
 }
 .nama {
     font-size: 30px;
-    font-weight: bold;
     margin-top: 30px;
     line-height: 90%;
 }
@@ -31,16 +30,17 @@ hr {
     margin: 25px auto 25px auto;
 }
 #div-desc {
-    padding: 80px 30px 80px 30px;
+    padding: 60px 30px;
     text-align: left;
     background-color: white;
 }
-.halo {
-    font-size: 60px;
+#halo {
+    font-size: 40px;
     font-weight: bold;
 }
 .me {
     text-align: justify;
+    font-size: 14px;
 }
 @media only screen and (max-width: 600px) {
     body {
